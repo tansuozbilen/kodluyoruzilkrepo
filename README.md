@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 
-Bu repo  [Kodluyoruz](https://wwww.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuzilk repo. İçerisindebir adet README dosyası, bir adet index.html barındırıyor.
+Bu repo  [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuzilk repo. İçerisindebir adet README dosyası, bir adet index.html barındırıyor.
 
 ![github](/tansunew.png)
 
